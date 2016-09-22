@@ -1,4 +1,8 @@
-## One dark UI theme [![Build Status](https://travis-ci.org/atom/one-dark-ui.svg?branch=master)](https://travis-ci.org/atom/one-dark-ui)
+## Taz dark UI theme
+
+Fork of the One dark UI theme where the apperance has been tweaked a little.
+
+To be used together with packages taz-fuzzy-finder and taz-tab-switcher.
 
 A dark UI theme that adjusts to most Syntax themes.
 
